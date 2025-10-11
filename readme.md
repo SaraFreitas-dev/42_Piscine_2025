@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:001F3F,100:0074D9&text=42%20Piscine%202025&fontSize=52&fontColor=FFFFFF&desc=Sara%20Freitas%20•%2042%20Porto&descAlignY=72&animation=fadeIn" alt="42 Piscine 2025 banner" />
 </p>
 
-<h1 align="center">💧 42 Porto – Piscine 2025</h1>
+<h1 align="center">💧 42 Porto School – Piscine </h1>
 
 <p align="center">
   <strong>✅ Completed the 42 Porto Piscine!</strong><br/>
